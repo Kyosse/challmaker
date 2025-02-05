@@ -4,7 +4,7 @@ You will find here all the challenges I've made for different CTF (Capture The F
 
 Feel free to use them as you want ! I only ask in exchange to be credited. 
 
-*Make sure to use another name if you don't want your users to find this repo !*
+*Make sure to use another name for each challenges if you don't want your users to find this repo !*
 
 This repo is organized by chall category. for each category you will find a contents page to help you find what you want.<br>
 The chall are composed the same way.
