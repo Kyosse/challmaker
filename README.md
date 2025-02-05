@@ -1,4 +1,4 @@
-# Welcome to the archive of all my chall !
+# Welcome to the archive of all my challenges !
 
 You will find here all the challenges I've made for different CTF (Capture The Flag) I have contributed in.
 
