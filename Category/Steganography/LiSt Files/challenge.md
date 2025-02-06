@@ -31,7 +31,7 @@ Trouvez ce qui se passe derrière ces étranges fichiers. (Tous les fichiers son
 
 To solve this chall you just need a basic unix command. Apply the command `ls -all` in each directory to see the conversation and the flag.
 
-![illustration of a solv with the ls -all command](images/Solv_example.png =x300)
+![illustration of a solv with the ls -all command](images/Solv_example.png=x300)
 
 ## Adaptation
 
