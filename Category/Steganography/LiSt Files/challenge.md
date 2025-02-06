@@ -7,11 +7,9 @@
 LiSt Files is a steganography chall that I have made for a CTF. The concept is to hide message in multiple filename and recover them with the `ls -all` command. 
 
 If you want to use this chall in the configuration I consider easy you can use this [zip](LiSt_Files.zip) wich contains all the file. If you want to change the flag and/or other parameters you can read the following points: 
-- [LiSt Files](#list-files)
-  - [Description](#description)
-  - [Solution](#solution)
-  - [Adaptation](#adaptation)
-  - [Creation of the chall files](#creation-of-the-chall-files)
+
+ - [Adaptation](#adaptation)
+ - [Creation of the chall files](#creation-of-the-chall-files)
 
 ## Description
 
