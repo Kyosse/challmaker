@@ -23,9 +23,9 @@ I offer you two way to search challenges, either by category or by difficulty. Y
 
 | Difficulty | Number of challenges |
 | :---: | :---: |
-| Very Easy | 0 |
-| Easy | 0 |  
-| Medium | 0 |
-| Hard | 0 |
-| Very Hard | 0 |
+| [Very Easy](Difficulty/Very_easy.md) | 0 |
+| [Easy](Difficulty/Easy.md) | 0 |  
+| [Medium](Difficulty/Medium.md) | 0 |
+| [Hard](Difficulty/Hard.md) | 0 |
+| [Very Hard](Difficulty/Very_hard.md) | 0 |
 
