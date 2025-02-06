@@ -18,8 +18,8 @@ I offer you two way to search challenges, either by category or by difficulty. Y
 
 | Category | Number of challenges |
 | :---: | :---: |
-| Steganography | 0 |
-| Network | 0 |
+| [Steganography](Category/Steganography/README.md) | 0 |
+| [Network](Category/Network/README.md) | 0 |
 
 | Difficulty | Number of challenges |
 | :---: | :---: |
