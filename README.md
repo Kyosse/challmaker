@@ -19,12 +19,12 @@ I offer you two way to search challenges, either by category or by difficulty. Y
 | Category | Number of challenges |
 | :---: | :---: |
 | [Steganography](Category/Steganography/README.md) | 1 |
-| [Network](Category/Network/README.md) | 0 |
+| [Network](Category/Network/README.md) | 1 |
 
 | Difficulty | Number of challenges |
 | :---: | :---: |
 | [Very Easy](Difficulty/Very_easy.md) | 0 |
-| [Easy](Difficulty/Easy.md) | 1 |  
+| [Easy](Difficulty/Easy.md) | 2 |  
 | [Medium](Difficulty/Medium.md) | 0 |
 | [Hard](Difficulty/Hard.md) | 0 |
 | [Very Hard](Difficulty/Very_hard.md) | 0 |
