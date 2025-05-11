@@ -8,6 +8,12 @@ Do you know Google ? is a pretty common Network chall. The concept is to hide me
 
 This chall is made possible thanks to the tool made by John [Original files](https://github.com/EasyAI/DNS_Steganography).
 
+- [Do you know Google ?](#do-you-know-google-)
+  - [Description](#description)
+  - [Solution](#solution)
+  - [Adaptation](#adaptation)
+  - [Creation of the chall files](#creation-of-the-chall-files)
+
 ## Description
 
 Your coworker sent you a frame capture from a computer of your network.
