@@ -6,14 +6,17 @@
 
 LiSt Files is a steganography chall that I have made for a CTF. The concept is to hide message in multiple filename and recover them with the `ls -all` command. 
 
-If you want to use this chall in the configuration I consider easy you can use this [zip](LiSt_Files.zip) wich contains all the file. If you want to change the flag and/or other parameters you can read the following points: 
+If you want to use this chall in the configuration you can use this [zip](LiSt_Files.zip) wich contains all the file. If you want to change the flag and/or other parameters you can read the following points: 
 
- - [Adaptation](#adaptation)
- - [Creation of the chall files](#creation-of-the-chall-files)
+- [LiSt Files](#list-files)
+  - [Description](#description)
+  - [Solution](#solution)
+  - [Adaptation](#adaptation)
+  - [Creation of the chall files](#creation-of-the-chall-files)
 
 ## Description
 
-You just bought a used hard drive to upgrade your computer. After mounting it you've found out that is has not been reset.
+You just bought a used hard drive to upgrade your computer. After mounting it you found out that is has not been reset.
 
 In between all thoose files you came across this weird directory which contains a bunch of random file.
 
@@ -35,11 +38,11 @@ To solve this chall you just need a basic unix command. Apply the command `ls -a
 
 ## Adaptation
 
-In this configuration I consider this challenge easy. It is still possible to modify it in effort to make it easier or more difficult. In the list of elements that would be pertinant to modify ther is :
+In this configuration I consider this challenge easy. It is still possible to modify it in effort to make it easier or more difficult. Here the list of settings that would be pertinant to modify :
 
 * Title
 * Chall desc
-* Number of folder (dertmine by the number of sentence in the variable [self.__messages](create_chall.py))
+* Number of folder (correspond to the number of sentence in the variable [self.__messages](create_chall.py))
 * Length of the filenames
 * Content of the files
 * Type of char for the filenames
@@ -51,7 +54,8 @@ Note that some of elements are directly adjustable in the [script](create_chall.
 
 ## Creation of the chall files
 
-I've made a little program to create the directories and files. It is possible to adjust some parameters that I've talk just bejore.
+I've made a little program to create the directories and files. It is possible to adjust some parameters that I've talk just before.
+
 ```shell
 python3 create_chall.py
 ```

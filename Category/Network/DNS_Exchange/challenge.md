@@ -4,13 +4,13 @@
 | :---: | :---: | :---: |
 | Do you know Google ? | Network | Easy |
 
-Do you know Google ? is a Network chall. The concept is to hide message encoded in base85 hidden inside DNS response packets. 
+Do you know Google ? is a pretty common Network chall. The concept is to hide message encoded in base85 hidden inside DNS response packets. 
 
 This chall is made possible thanks to the tool made by John [Original files](https://github.com/EasyAI/DNS_Steganography).
 
 ## Description
 
-Your coworker send you a frame capture from a computer of your network.
+Your coworker sent you a frame capture from a computer of your network.
 
 He suspects that a malicious actor is using this machine to exfiltrate inforamtions.
 
@@ -18,11 +18,11 @@ He suspects that a malicious actor is using this machine to exfiltrate inforamti
 
 Un collègue vous envoit un extrait d'une capture de trame d'une machine. 
 
-Il suspect que des acteurs malveillants l'utilisents pour s'échanger des informations.
+Il suspect que des acteurs malveillants l'utilisent pour extraire des informations.
 
 ## Solution
 
-To solve this chall you need to filter the capture to only have DNS packets. Then find the packets that respond to the google.com url. Inside the packet, in the `Answer` attribute you will find a base85 value wich correspond to the message sent.
+To solve this chall you need to filter the capture to only have DNS packets. Then find the packets that respond to the google.com FQDN. Inside the packet, in the `Answer` attribute you will find a base85 value wich correspond to the message sent.
 
 ![Illustration of a solv](images/Solv_example..png)
 
