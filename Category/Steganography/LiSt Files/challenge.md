@@ -2,7 +2,7 @@
 
 | Name | Category | Difficulty |
 | :---: | :---: | :---: |
-| LiSt File | Steganography | Easy |
+| LiSt File | [Steganography](../README.md) | [Easy](../../../Difficulty/Easy.md) |
 
 LiSt Files is a steganography chall that I have made for a CTF. The concept is to hide message in multiple filename and recover them with the `ls -all` command. 
 

@@ -2,7 +2,7 @@
 
 | Name | Category | Difficulty |
 | :---: | :---: | :---: |
-| Do you know Google ? | Network | Easy |
+| Do you know Google ? | [Network](../README.md) | [Easy](../../../Difficulty/Easy.md) |
 
 Do you know Google ? is a pretty common Network chall. The concept is to hide message encoded in base85 hidden inside DNS response packets. 
 

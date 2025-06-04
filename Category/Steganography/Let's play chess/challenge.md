@@ -2,7 +2,7 @@
 
 | Name | Category | Difficulty |
 | :---: | :---: | :---: |
-| Let's play chess | Steganography | Medium |
+| Let's play chess | [Steganography](../README.md) | [Medium](../../../Difficulty/Medium.md) |
 
 Let's play chess is a steganography chall that I have made for a CTF. It consist of a message or a file hidden inside a PGN file. [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) is a plain text file format used to record chess games. 
 
