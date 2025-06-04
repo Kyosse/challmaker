@@ -126,8 +126,8 @@ class Grabuge:
         filename: str = ''.join(choices(self.__valid_characters, k=length)) # Random filename
 
         # Insert of the char
-        if pos >= length:
-            raise IndexError("L'indice est hors de portée.")
+        if pos >= length: # Check for error
+            raise IndexError("Index out of reach.")
         elif pos > 0:
             filename = filename[:pos] + char + filename[pos+1:]
 
