@@ -4,7 +4,7 @@
 | :---: | :---: | :---: |
 | LiSt File | [Steganography](../README.md) | [Easy](../../../Difficulty/Easy.md) |
 
-LiSt Files is a steganography chall that I have made for a CTF. The concept is to hide message in multiple filename and recover them with the `ls -all` command. 
+LiSt Files is a steganography chall that I have made for a CTF. The concept is to hide message in multiple filename and recover them with the `ls -l` command. 
 
 If you want to use this chall in the configuration you can use this [zip](LiSt_Files.zip) wich contains all the file. If you want to change the flag and/or other parameters you can read the following points: 
 
@@ -32,7 +32,7 @@ Trouvez ce qui se passe derrière ces étranges fichiers. (Tous les fichiers son
 
 ## Solution
 
-To solve this chall you just need a basic unix command. Apply the command `ls -all` in each directory to see the conversation and the flag.
+To solve this chall you just need a basic unix command. Apply the command `ls -l` in each directory to see the conversation and the flag.
 
 ![illustration of a solv with the ls -all command](images/Solv_example.png)
 
