@@ -4,11 +4,11 @@
 | :---: | :---: | :---: |
 | Somewhat Vaguely Graphical | [Steganography](../README.md) | [Medium](../../../Difficulty/Medium.md) |
 
-This is a challenge I made for the [InterIUT CTF](https://github.com/InterIUT-2026/Challenges) organized by [HACK2G2](https://hack2g2.fr/).
+This is a challenge I made for the [InterIUT2026 CTF](https://github.com/InterIUT-2026) organized by [HACK2G2](https://hack2g2.fr/).
 
 The idea is to hide information inside SVG tags. Since this is a harder challenge, I wanted to make it multi-step.
 
-- [Somewhat Vaguely Graphical](#Somewhat Vaguely Graphical)
+- [Somewhat Vaguely Graphical](#somewhat-vaguely-graphical)
   - [Description](#description)
   - [Solution](#solution)
   - [Creation of the chall files](#creation-of-the-chall-files)
@@ -189,7 +189,6 @@ We can now update our script to apply XOR with the key we found.
 import re, base64
 from itertools import cycle
 
-# ── Config ───────────────────────────────────────────────────────
 SVG_FILE  = "complex.svg"
 KEY = b"PLOP"
 THRESHOLD = 540
