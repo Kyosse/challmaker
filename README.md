@@ -18,7 +18,7 @@ I offer two ways to search for challenges, either by category or by difficulty. 
 
 | Category | Number of challenges |
 | :---: | :---: |
-| [Steganography](Category/Steganography/README.md) | 2 |
+| [Steganography](Category/Steganography/README.md) | 3 |
 | [Network](Category/Network/README.md) | 1 |
 
 | Difficulty | Number of challenges |
@@ -28,4 +28,3 @@ I offer two ways to search for challenges, either by category or by difficulty. 
 | [Medium](Difficulty/Medium.md) | 1 |
 | [Hard](Difficulty/Hard.md) | 0 |
 | [Very Hard](Difficulty/Very_hard.md) | 0 |
-
