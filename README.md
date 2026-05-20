@@ -25,6 +25,6 @@ I offer two ways to search for challenges, either by category or by difficulty. 
 | :---: | :---: |
 | [Very Easy](Difficulty/Very_easy.md) | 0 |
 | [Easy](Difficulty/Easy.md) | 2 |  
-| [Medium](Difficulty/Medium.md) | 1 |
+| [Medium](Difficulty/Medium.md) | 2 |
 | [Hard](Difficulty/Hard.md) | 0 |
 | [Very Hard](Difficulty/Very_hard.md) | 0 |
